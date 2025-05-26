@@ -1,8 +1,9 @@
-import Day1 from "./Components/Day1"
+import Card from "./Components/Card"
+// import Day1 from "./Components/Day1"
 
 function App(){
   return (
-    <Day1/>
+    <Card/>
   )
   
 }
